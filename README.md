@@ -8,7 +8,6 @@ Computer Science Graduate (Data Science & Computational Intelligence) &nbsp;·&n
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sheikh-aiman-hadi-shekh-faisal-a6b4532a1/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aimanhadi100@gmail.com)
-![Open to Work](https://img.shields.io/badge/Open_to_Work-2EA44F?style=for-the-badge)
 
 </div>
 
