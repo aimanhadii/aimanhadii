@@ -1,6 +1,6 @@
 <div align="center">
 
-# Sheikh Aiman Hadi
+# Sheikh Aiman Hadi Shekh Faisal
 
 ### Full-Stack Developer &nbsp;|&nbsp; AI & Data Science
 
