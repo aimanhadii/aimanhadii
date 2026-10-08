@@ -2,7 +2,7 @@
 
 # Sheikh Aiman Hadi Shekh Faisal
 
-### Full-Stack Development &nbsp;·&nbsp; AI &nbsp;·&nbsp; Data Science
+### Software Engineering &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; AI &nbsp;·&nbsp; Data Science
 
 Computer Science Graduate (Data Science & Computational Intelligence) &nbsp;·&nbsp; IIUM &nbsp;·&nbsp; Malaysia
 
