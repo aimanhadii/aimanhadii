@@ -48,6 +48,7 @@ test accuracy from a cross-validated XGBoost model
 
 | Project | What it does | Built with |
 |---|---|---|
+| **[Nurora](https://github.com/aimanhadii/nurora)** <br> *In active development* | AI daily companion that turns casual chat in English or Malay into scheduled tasks, with reminders and daily affirmations. Designed with client-side post-quantum end-to-end encryption (ML-KEM-768 + AES-256-GCM). | Next.js, React, TypeScript, Tailwind CSS, Supabase |
 | **[PQC Sandbox Programme System](https://github.com/aimanhadii/pqc-sandbox-case-study)** <br> [Live site](https://pqcsandbox-ptpkm.upm.edu.my/) | Web system for PTPKM's national Post-Quantum Cryptography Sandbox, taking companies from application to project completion. Live in production. | PHP, Laravel, MySQL, Tailwind CSS |
 | **[HiddenTales](https://github.com/aimanhadii/hiddentales)** | AI system that detects emotions in children's drawings and writes a structured report automatically. Award-winning final year project. | React, Flask, Vision Transformer, Qwen-2-VL, T5 |
 | **[Parkinson's Disease Prediction](https://github.com/aimanhadii/parkinsons-disease-prediction)** | Compares five machine learning models with cross-validated tuning to predict Parkinson's disease. | Python, Scikit-Learn, XGBoost |
